@@ -1,0 +1,5 @@
+﻿Design:
+Sera aplicativo inicialmente para android, devido a quantidade de usuarios em relação ao ios.De facil utlização, onde sera necessario apenas colocar 
+o local de partida e de chegada. No inicio sera apresentado um mapa com os veiculos proximos da localiação do gps do smartphone, tera uma aba para 
+verificar e alterar dados do perfil além de um botão de "ajuda" que o usuário poderá utilizar para pesquisa de informações sobre o serviço e entrar 
+em contato diretamente com o suporte ao cliente, já com a identificação do cliente registrada.
