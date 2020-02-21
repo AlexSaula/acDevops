@@ -1,0 +1,8 @@
+﻿Operação: 
+
+Para o sistema (aplicativo) utilizaremos das seguintes informações:
+O cadastro do cliente com os seguintes dados (Nome, email, Telefone, CPF, Endereço, Dados do Cartão de Crédito) [OK], utilizaremos o sitema de geolocalização (GPS do celular do cliente)[OK], dados do veiculo (placa, cor, capacidade maximo de 4 pessoas, capacidade da bateria)[OK], movido a eletrecidade (bateria)[OK] e sera carregado por sistemas de indução[OK].
+
+Sera aplicativo inicialmente para android[OK], devido a quantidade de usuarios em relação ao ios.De facil utlização, onde sera necessario apenas colocar o local de partida e de chegada[OK], tera uma aba para verificar e alterar 
+dados do perfil[OK] além de um botão de "ajuda" [OK] que o usuário poderá utilizar para pesquisa de informações sobre o serviço e entrar 
+em contato diretamente com o suporte ao cliente, já com a identificação do cliente registrada [OK].
