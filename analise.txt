@@ -1,0 +1,12 @@
+﻿A empresa AA² quer desenvolver um sistema utilizando carros que voam
+para realizar viagens com seus usuarios que atendam o preço de até 10 dolares
+por viagem
+
+Analise:
+
+Para o sistema (aplicativo) utilizaremos das seguintes informações:
+O cadastro do cliente com os seguintes dados (Nome, email, Telefone, CPF, Endereço, Dados do Cartão de Crédito), utilizaremos o sitema de geolocalização 
+(GPS do celular do cliente), dados do veiculo (placa, cor, capacidade maximo de 4 pessoas, capacidade da bateria), o veiculo sera autonomo, monido de sistema 
+de rotas areas pela FAB (radar e geolocalização), movido a eletrecidade (bateria) e sera carregado por sistemas de indução espalhados pela cidade.
+
+
