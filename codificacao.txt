@@ -1,0 +1,7 @@
+﻿Codificação: 
+
+Iremos usar a linguagem Phyton para a codificação do aplicativo, sendo atualmente a linguagem oficial para o desenvolvimento 
+do Android e é suportado pelo Android Studio, ferramenta que usaremos para o desenvolvimento da aplicação Móvel. 
+A linguagem traz uma série de beneficios por sua facilidade de entendimento e com isso melhores resultados, agilidade e experência 
+para o usuário. Devido a facilidade da linguagem, conseguiremos trazer melhorias no futuro, para a integração de outras tecnologias, tais como,
+Inteligência Artificial, Big Data, Machine Learning e muitos outros.
